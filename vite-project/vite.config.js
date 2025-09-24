@@ -19,7 +19,7 @@ const __dirname = resolve(__filename, '..')
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
+  plugins: [react()],kkkk
   build: {
     rollupOptions: {
       input: {
