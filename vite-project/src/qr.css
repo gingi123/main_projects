@@ -1,0 +1,18 @@
+.qrimg{
+    width: 15%;
+    
+}
+
+body {
+    background-color: rgb(95, 122, 140);
+}
+
+
+#inputURL{
+    width: 45vh;
+    
+}
+
+#gridem{
+    height: 100%;
+}

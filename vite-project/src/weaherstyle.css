@@ -1,0 +1,8 @@
+body{
+    background-color: lightsteelblue;
+    }
+
+
+#aktualis_list, #Forecast_list{
+    list-style: none;
+}
